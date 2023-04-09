@@ -9,7 +9,7 @@ category: work
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="NEDO introduction image.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/NEDO introduction image.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -21,7 +21,7 @@ This research and development project aims to develop marine biodegradable plast
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="NEDO 2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/NEDO 2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
