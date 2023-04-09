@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: self image.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+81 03-5841-5266</p>
+    <p>Room 404, No.5 Building, 1-1-1 Yayoi</p>
+    <p>Bunkyo-ku,Tokyo 113-8657, Japan</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Greetings, my name is HUANG Qiuyuan and I am a postdoctoral researcher at the Department of Biomaterial Sciences, Graduate School of Agricultural and Life Sciences, The University of Tokyo. I am passionate about the development of sustainable materials and dedicated to contributing to the fields of eco-friendly polymers, eco-materials, biodegradable plastics, polymer structure and polymer synthesis.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my Ph.D. from the Graduate School of Agricultural and Life Sciences, The University of Tokyo, where my research focused on biodegradable polymers. Since then, I have continued my research journey and my current work focuses on the development of innovative biodegradable polymers that are both environmentally friendly and sustainable.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am honoured to have the opportunity to work with a team of brilliant researchers at the University of Tokyo and to contribute to the development of sustainable materials that will shape the future of our planet.
