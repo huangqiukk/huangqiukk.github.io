@@ -27,6 +27,3 @@ This research and development project aims to develop marine biodegradable plast
 <div class="caption">
     Figure. Field tests in the project carried out by SHINKAI 6500, a manned submersible that can dive to depths of 6,500 meters. 
 </div>
-
-```
-{% endraw %}
