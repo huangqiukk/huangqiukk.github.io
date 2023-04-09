@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher. University of Tokyo. Email.huangqiuyuan123@gmail.com 
+subtitle: Postdoctoral researcher. University of Tokyo. Email. huangqiuyuan123@gmail.com 
 
 profile:
   align: right
