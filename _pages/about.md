@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral researcher. University of Tokyo. huangqiuyuan123@gmail.com
 
 profile:
   align: right
