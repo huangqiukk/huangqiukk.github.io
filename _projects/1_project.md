@@ -2,7 +2,7 @@
 layout: page
 title: Moonshot Research and Development Program
 description: established to promote ambitious research and development.
-img: assets/img/12.jpg
+img: assets/img/mark.jpg
 importance: 1
 category: work
 ---
