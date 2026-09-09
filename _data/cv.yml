@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: HUANG Qiuyuan
-    - name: Date of Birth
-      value: 7th August 1993
     - name: Languages
       value: Chinese, Japanese, English
 
@@ -15,33 +13,38 @@
       institution: University of Tokyo, Tokyo, Japan
       year: 2022
       description:
-        - Department: Department of Biomaterial Sciences, Graduate School of Agricultural and Life Sciences
-        - Supervisor: IWATA Tadahisa
-        - PhD Thesis title: Development of Enzyme Embedded Polyesters with Marine Biodegradability
-        
+        - "Department: Department of Biomaterial Sciences, Graduate School of Agricultural and Life Sciences"
+        - "Supervisor: IWATA Tadahisa"
+        - "PhD Thesis title: Development of Enzyme Embedded Polyesters with Marine Biodegradability"
+
     - title: Master degree
       institution: Nagaoka University of Technology, Nagaoka, Niigata, Japan
       year: 2018
       description:
-        - Department:Materials Science and Technology
-        
+        - "Department: Materials Science and Technology"
+
     - title: Bachelor degree
       institution: Nagaoka University of Technology, Nagaoka, Niigata, Japan
       year: 2016
       description:
-        - Department: Materials Science and Technology
+        - "Department: Materials Science and Technology"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoctoral researcher 
-      institution: University of Tokyo, Tokyo, Japan
-      year: 2022 - now
+    - title: Assistant Professor (特任助教)
+      institution: Nara Institute of Science and Technology (NAIST), Nara, Japan
+      year: 2026 - now
       description:
-        - Department: Department of Biomaterial Sciences, Graduate School of Agricultural and Life Sciences
+        - "Laboratory of Macromolecular Systems Design, Division of Materials Science"
 
+    - title: Project Assistant Professor
+      institution: University of Tokyo, Tokyo, Japan
+      year: 2022 - 2026
+      description:
+        - "Department of Biomaterial Sciences, Graduate School of Agricultural and Life Sciences"
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Photography, Basketball, etc.
+    - "<u>Hobbies:</u> Photography, Basketball, etc."
