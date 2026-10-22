@@ -1,0 +1,71 @@
+- title: 基本信息
+  type: map
+  contents:
+    - name: 姓名
+      value: HUANG Qiuyuan
+    - name: 语言
+      value: 中文、日语、英语
+
+- title: 教育经历
+  type: time_table
+  contents:
+    - title: 博士
+      institution: 东京大学 大学院农学生命科学研究科（日本 东京）
+      year: 2022
+      description:
+        - "专业：生物材料科学专攻"
+        - "导师：岩田忠久（IWATA Tadahisa）"
+        - "博士论文：Development of Enzyme Embedded Polyesters with Marine Biodegradability"
+
+    - title: 硕士
+      institution: 长冈技术科学大学（日本 新潟县长冈市）
+      year: 2018
+      description:
+        - "专业：物质材料工学"
+
+    - title: 学士
+      institution: 长冈技术科学大学（日本 新潟县长冈市）
+      year: 2016
+      description:
+        - "专业：物质材料工学"
+
+- title: 工作经历
+  type: time_table
+  contents:
+    - title: 特任助教
+      institution: 奈良先端科学技术大学院大学（NAIST，日本 奈良县）
+      year: 2026 - 至今
+      description:
+        - "物质创成科学领域 高分子系统设计研究室"
+
+    - title: 特任助教
+      institution: 东京大学（日本 东京）
+      year: 2024 - 2026
+      description:
+        - "大学院农学生命科学研究科 生物材料科学专攻"
+
+    - title: 特任研究员
+      institution: 东京大学（日本 东京）
+      year: 2022 - 2024
+      description:
+        - "大学院农学生命科学研究科 生物材料科学专攻"
+
+- title: 科研项目
+  type: time_table
+  contents:
+    - title: 日本学术振兴会科研费 若手研究（研究代表者）
+      institution: JSPS KAKENHI　课题编号 25K21401
+      year: 2025 - 2027
+      description:
+        - "解析绝干状态的酶在加热过程中的副反应与分子结构变化，并开发抑制方法"
+
+    - title: 千手・文殊项目（第一期）青年研究者支援计划
+      institution: 奈良先端科学技术大学院大学（NAIST）
+      year: 2026 - 2027
+      description:
+        - "酶包埋生物可降解高分子体系，以及绝干、高温条件下的酶稳定化研究"
+
+- title: 其他
+  type: list
+  contents:
+    - "<u>兴趣爱好：</u>摄影、篮球 等"
