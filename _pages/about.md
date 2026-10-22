@@ -21,13 +21,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings, my name is HUANG Qiuyuan and I am an Assistant Professor (特任助教) at the Laboratory of Macromolecular Systems Design, Division of Materials Science, Nara Institute of Science and Technology (NAIST). My research focuses on biodegradable plastics, enzyme-embedded materials, enzyme stability in anhydrous and high-temperature environments, and polymer synthesis chemistry.
+Greetings, my name is HUANG Qiuyuan (黄秋源) and I am an Assistant Professor (特任助教) at the Laboratory of Macromolecular Systems Design, Division of Materials Science, Nara Institute of Science and Technology (NAIST). My research focuses on biodegradable plastics, enzyme-embedded materials, enzyme stability in anhydrous and high-temperature environments, and polymer synthesis chemistry.
 
 #### Current research at NAIST
 
-At NAIST I belong to **自律的研究強化・社会実装（ARWIT）システムの構築と共有** — Building and Sharing the Autonomous Research Reinforcement and Social Implementation (ARWIT) System — one of the strategies of NAIST's programme under MEXT's Strategic Promotion Project for Research Universities with Distinctive Strengths (J-PEAKS), which connects fundamental research, data sharing and social implementation.
+At NAIST I belong to 自律的研究強化・社会実装（ARWIT）システムの構築と共有 — Building and Sharing the Autonomous Research Reinforcement and Social Implementation (ARWIT) System — one of the strategies of NAIST's programme under MEXT's Strategic Promotion Project for Research Universities with Distinctive Strengths (J-PEAKS), which connects fundamental research, the use of research data, and social implementation.
 
-Enzyme embedding only works if the enzyme survives the temperatures at which plastics are actually processed. My current research therefore centres on what happens to enzymes in the **anhydrous (bone-dry) state** when they are heated. Supported by a JSPS Grant-in-Aid for Early-Career Scientists (KAKENHI 25K21401, 2025–2027, PI), I am working to elucidate the side reactions and molecular structural changes that anhydrous enzymes undergo during heat treatment, and to develop ways of suppressing them — the basis for designing more heat-stable enzyme-embedded materials.
+Within this framework, I combine automated synthesis, machine learning and related approaches to tackle new scientific questions.
 
 #### Previously, at the University of Tokyo
 
