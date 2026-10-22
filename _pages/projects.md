@@ -2,11 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Funded research projects and grants.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
+i18n_shared: true
 ---
 
 <!-- pages/projects.md -->
