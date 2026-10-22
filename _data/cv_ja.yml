@@ -1,0 +1,71 @@
+- title: 基本情報
+  type: map
+  contents:
+    - name: 氏名
+      value: HUANG Qiuyuan
+    - name: 使用言語
+      value: 中国語、日本語、英語
+
+- title: 学歴
+  type: time_table
+  contents:
+    - title: 博士
+      institution: 東京大学大学院 農学生命科学研究科（東京）
+      year: 2022
+      description:
+        - "専攻：生物材料科学専攻"
+        - "指導教員：岩田 忠久"
+        - "博士論文：Development of Enzyme Embedded Polyesters with Marine Biodegradability"
+
+    - title: 修士
+      institution: 長岡技術科学大学（新潟県長岡市）
+      year: 2018
+      description:
+        - "専攻：物質材料工学"
+
+    - title: 学士
+      institution: 長岡技術科学大学（新潟県長岡市）
+      year: 2016
+      description:
+        - "専攻：物質材料工学"
+
+- title: 職歴
+  type: time_table
+  contents:
+    - title: 特任助教
+      institution: 奈良先端科学技術大学院大学（NAIST、奈良県）
+      year: 2026 - 現在
+      description:
+        - "物質創成科学領域 高分子システム設計研究室"
+
+    - title: 特任助教
+      institution: 東京大学（東京）
+      year: 2024 - 2026
+      description:
+        - "大学院農学生命科学研究科 生物材料科学専攻"
+
+    - title: 特任研究員
+      institution: 東京大学（東京）
+      year: 2022 - 2024
+      description:
+        - "大学院農学生命科学研究科 生物材料科学専攻"
+
+- title: 研究費
+  type: time_table
+  contents:
+    - title: 科学研究費助成事業 若手研究（研究代表者）
+      institution: 日本学術振興会（JSPS）　課題番号 25K21401
+      year: 2025 - 2027
+      description:
+        - "絶乾状態の酵素が加熱過程で起こる副反応や分子構造変化の解明及び抑制する方法の開発"
+
+    - title: 千手・文殊プロジェクト（フェーズ1）若手研究者支援プログラム
+      institution: 奈良先端科学技術大学院大学（NAIST）
+      year: 2026 - 2027
+      description:
+        - "酵素包埋生分解性高分子システムと、絶乾・高温条件下での酵素安定化に関する研究"
+
+- title: その他
+  type: list
+  contents:
+    - "<u>趣味：</u>写真、バスケットボール など"
