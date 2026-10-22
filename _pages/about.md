@@ -25,9 +25,9 @@ Greetings, my name is HUANG Qiuyuan and I am an Assistant Professor (特任助�
 
 #### Current research at NAIST
 
-Enzyme embedding only works if the enzyme survives the temperatures at which plastics are actually processed. My current research therefore centres on what happens to enzymes in the **anhydrous (bone-dry) state** when they are heated. Supported by a JSPS Grant-in-Aid for Early-Career Scientists (KAKENHI 25K21401, 2025–2027, PI), I am working to elucidate the side reactions and molecular structural changes that anhydrous enzymes undergo during heat treatment, and to develop ways of suppressing them — the basis for designing more heat-stable enzyme-embedded materials.
+At NAIST I belong to **自律的研究強化・社会実装（ARWIT）システムの構築と共有** — Building and Sharing the Autonomous Research Reinforcement and Social Implementation (ARWIT) System — one of the strategies of NAIST's programme under MEXT's Strategic Promotion Project for Research Universities with Distinctive Strengths (J-PEAKS), which connects fundamental research, data sharing and social implementation.
 
-In parallel, the NAIST 千手・文殊 Young Researcher Support Program (Phase 1, 2026–2027) supports extending enzyme-embedded polyester systems beyond films and microbeads, towards forms that can be processed and used in practice.
+Enzyme embedding only works if the enzyme survives the temperatures at which plastics are actually processed. My current research therefore centres on what happens to enzymes in the **anhydrous (bone-dry) state** when they are heated. Supported by a JSPS Grant-in-Aid for Early-Career Scientists (KAKENHI 25K21401, 2025–2027, PI), I am working to elucidate the side reactions and molecular structural changes that anhydrous enzymes undergo during heat treatment, and to develop ways of suppressing them — the basis for designing more heat-stable enzyme-embedded materials.
 
 #### Previously, at the University of Tokyo
 
